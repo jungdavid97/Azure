@@ -143,7 +143,7 @@ __Describe cloud computing__
    
     - Automates tasks based on triggers when an event is called
    
-    - With the Logic Apps Designer, you can build our the process using a GUI
+    - With the Logic Apps Designer, you can build out the process using a GUI
 
 __Describe the benefits of using cloud services__
 
