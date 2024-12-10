@@ -281,27 +281,137 @@ __Describe the benefits of using cloud services__
    
     - Receive automatic alerts based on configured metrics, so you are aware of performance in real time
    
-  - Management __in__ the cloud
+- Management __in__ the cloud
  
-    - Management in the cloud speaks to how you are able to manage your cloud environment and resources
+  - Management in the cloud speaks to how you are able to manage your cloud environment and resources
    
-      - Through a web portal
+    - Through a web portal
      
-      - Using a command line interface
+    - Using a command line interface
      
-      - Using APIs
+    - Using APIs
      
-      - Using PowerShell
+    - Using PowerShell
 
 __Describe cloud service types__
 
 >__Describe infrastructure as a service (IaaS)__
 
+- The most flexible category of cloud services, as it provides you the maximum amount of control for your cloud resources
+
+  - You are responsible for:
+ 
+    - Information and data
+   
+    - Devices (Mobile and PCs)
+   
+    - accounts and identities
+   
+    - Identity and directory infrastructure
+   
+    - Applications
+   
+    - Network controls
+   
+    - Operating system
+   
+  - Cloud provider is responsible for:
+ 
+    - Physical hosts
+   
+    - Physical network
+   
+    - Datacenter
+   
+    - Physical security
+
 >__Describe platform as a service (PaaS)__
+
+- A middle ground between renting space in a datacenter (IaaS) and paying for a complete and deployed solution (SaaS). Typically used by developers
+
+  - You are responsible for:
+ 
+    - Information and data
+   
+    - Devices (Mobile and PCs)
+   
+    - Accounts and identities
+   
+  - Cloud provider is responsible for:
+ 
+    - Operating system
+   
+    - Physical hosts
+   
+    - Physical network
+   
+    - Physical datacenter
+   
+    - Physical security
+   
+  - Both are responsible for:
+ 
+    - Identity and directory infrastructure
+   
+    - Applications
+   
+    - Network controls
 
 >__Describe software as a service (SaaS)__
 
+- The most complete cloud service model from a product perspective. With SaaS, you’re essentially renting or using a fully developed application
+
+  - You are responsible for:
+ 
+    - Information and data
+   
+    - Devices (Mobile and PCs)
+   
+    - Accounts and identities
+   
+  - Cloud provider is responsible for:
+ 
+    - Applications
+   
+    - Network controls
+   
+    - Operating system
+   
+    - Physical hosts
+   
+    - Physical network
+   
+    - Physical datacenter
+   
+    - Physical security
+   
+  - Both are responsible for:
+ 
+    - Identity and directory infrastructure
+
 >__Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)__
+
+- Infrastructure as a Service:
+
+  - __Lift-and-shift migration__ - You're setting up cloud resources similar to your on-prem datacenter, and simply moving the things running on-prem to running on the IaaS infrastrucure
+ 
+  - __Testing and development__ - You have established configurations for development and test environments that you need to rapidly replicate. You can either start up or shut down the different environments rapidly with an IaaS structure, while maintaining complete control
+ 
+- Platform as a Service:
+
+  - __Development framework__ - Provide a framework that developers can build upon to develop or customize cloud-based applications. Similar to Excel macro, PaaS lets developers create applications using built-in software components
+ 
+    - Scalability, high availability, and multi-tenant capability is included, reducing the amount of coding that developers must do
+   
+  - __Analytics or business intelligence__ - Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions
+
+ - Software as a Service:
+
+   - __Email and messaging__ - Outlook, Gmail, and other services like such
+  
+   - __Business productivity applications__ - Business analytics tools and software made specifically for business needs
+  
+   - __Finance and expense tracking__ - Core processing applications and tools like Rocket Money
 
 <h1>Describe Azure architecture and services (35–40%)</h1>
 
