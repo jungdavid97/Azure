@@ -149,7 +149,85 @@ __Describe the benefits of using cloud services__
 
 >__Describe the benefits of high availability and scalability in the cloud__
 
+- High abailability
+
+  - Highly availably cloud environments with uptime guarentees depending on the service
+ 
+    - Guarentees are part of the service-level agreements
+   
+      - Service-level agreements are a formal agreement that guarentees the customer a stated level of service
+     
+    - Agreements within Azure are represented as a percentage availability known as up time
+   
+    - Downtime comes with credits that are due to the customer account
+   
+    - Each service comes with its own SLA which must be prioritized to make sure it fits your business needs
+   
+  - Scalability
+ 
+    - The ability to scale means to add more resources to better handle an increase in demand
+   
+    - __Vertical scaling__ - if you were developing an app and you need more processing power, you could add more CPUs or RAM to the virtual machine
+   
+      - The ability to add or reduce resources to an existing VM to meet current demands and needs
+     
+    - __Horizontal scaling__ - if you experience a steep increase in demand, you would be able to either deploy more virtual machines or containers
+   
+      - The ability to deploy entire VMs or containers which were not previously used in the environment
+   
+      - Deployed resources couuld be scaled in either automatically or horizontally
+
 >__Describe the benefits of reliability and predictability in the cloud__
+
+- Reliability
+
+  - The ability of a system to recover from failures and continue to function.
+ 
+  - Reliability is a shared responsibility between Microsoft and the end-user
+ 
+  - Azure built-in resilience features
+ 
+    - __Availability zones__ - Run critical workloads across datacenters with independant power, cooling, and networking
+     
+    - __Availability sets__ - Achieve redundancy within a datacenter by collocating or separating resources
+     
+    - __Azure traffic manager__ - Implement automatic failover, optimize traffic, and combine on-premises and cloud systems
+     
+    - __Azure site recovery__ - Replicate on-premises and Azure workloads from a primary site to a secondary location
+     
+    - __Azure backup__ - Back up data with a simple, secure, and cost-effective recovery and restoration solution
+     
+    - __Azure storage__ - Create and store multiple copies of your data with redundancy options for any scenario
+     
+  - Cloud monitoring tools
+ 
+    - __Azure chaos studio__ - Systematically improve resillience with chaos engineering and testing by deliberately introducing faults that simulate real-world outages
+     
+    - __Azure service health__ - Identify resource issues and resolve them through a customizable dashboard
+     
+    - __Azure monitor__ - Collect, analyze, and act on telemetry data from Azure and on-premises environments
+     
+    - __Azure application insights__ - An extensible analytics service that helps you understand the performance and usage of your live web applications
+     
+    - __Network watcher__ - Monitor, diagnose, and gain insights into your networks performance and health
+     
+    - __Azure advisor__ - Offers actionable recommendations to help you optimize your Azure resources for reliability, security, operational excellence, performance, and cost
+
+- Predictability
+
+  - Focused on performance predictability or cost predictability
+ 
+  - __Performance__ - predict resources that needed to deliver a positive experience to your customers.
+ 
+    - Autoscaling allows you to deploy additional resources to meet demands, and then scale back when demand drops
+   
+    - Load balancing allows you to redirect overloaded servers to less stressed areas to allow for more efficient use of resources
+   
+  - __Cost__ - predict or forcast the cost of your cloud spending through real time tracking of resources, and monitoring of resources to ensure you are using them in the most efficient way
+ 
+    - Data analytics to predict patterns and trends that help better plan resource deployments
+   
+    - Total Cost of Ownership (TCO) or Pricing Calculator to estimate potential cloud spending
 
 >__Describe the benefits of security and governance in the cloud__
 
