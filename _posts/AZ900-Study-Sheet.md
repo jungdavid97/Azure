@@ -231,7 +231,67 @@ __Describe the benefits of using cloud services__
 
 >__Describe the benefits of security and governance in the cloud__
 
+- Security
+
+  - There are cloud solutions that meet your security needs, depending on the cloud service type
+    
+    - If you want maximum control of security, infrastructure as a service provides you with physical resources but lets your manage the operating systems and installed software, including patches and maintenance
+   
+    - If you want patches and maintenance taken care of automatically, platform as a service or software as a service deployments may be the best cloud strategy for you
+ 
+  - __Microsoft Defender for Cloud__ - Enabled by default in each subscription, and its recommended that you enable data collection from virtual machines to allow Defender for Cloud to install its agent and begin gathering data
+ 
+    - Provides unified view of security across your workloads
+   
+    - Collects, searches, and analyzes security data from various sources, which include firewalls and other partner solutions
+   
+    - Provides actionable security recommendations to fix issues before they can be exploited
+   
+    - Applies security policies across your hybrid cloud workloads to ensure compliance with security standards
+
+- Governance
+
+  - Cloud features support governance and compliance with set templates to help ensure all your deployed resources meet corporate standards and government regulatory requirements
+ 
+  - Update all your deployed resources to new standards as standards change
+ 
+  - Cloud-based auditing helps flag any resource that's out of compliance with your corporate standards and provides mitigation strategies
+ 
+  - __Azure policy__ - Tool that helps you create, assign, and manage policies which enforce rules on your resources so those resources stay compliant with your corporate standards and service-level agreements
+ 
+    - Enforce tagging for resources and resource groups
+   
+    - Restrict regions for deployed resources
+   
+    - Restrict expensive SKUs for specific resources
+   
+    - Audit the use of important features like Azure-managed disks
+
 >__Describe the benefits of manageability in the cloud__
+
+- Management __of__ the cloud
+
+  - Management of the cloud speaks to managing your cloud resources.
+ 
+    - Automatically scale resource deployment based on need
+   
+    - Deploy resources based on a preconfigured template, removing the need for manual configuration
+   
+    - Monitor the health of resources and automatically replace failing resources
+   
+    - Receive automatic alerts based on configured metrics, so you are aware of performance in real time
+   
+  - Management __in__ the cloud
+ 
+    - Management in the cloud speaks to how you are able to manage your cloud environment and resources
+   
+      - Through a web portal
+     
+      - Using a command line interface
+     
+      - Using APIs
+     
+      - Using PowerShell
 
 __Describe cloud service types__
 
