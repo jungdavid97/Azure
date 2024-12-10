@@ -29,15 +29,15 @@ __Describe cloud computing__
     - Public clouds are the most common type of cloud computing deployment. The cloud resources (like servers and storage) are owned and operated by a third-party cloud service provider and delivered over the internet. With a public cloud, all hardware, software, and other supporting infrastructure are owned and managed by the cloud provider. Microsoft Azure is an example of a public cloud
       - Advantages of public clouds
 
-        - __Lower costs__ no need to purchase hardware or software, and you pay only for the service you use
+        - __Lower costs__ - no need to purchase hardware or software, and you pay only for the service you use
        
-        - __No maintenance__ your service provider provides the maintenance
+        - __No maintenance__ - your service provider provides the maintenance
        
-        - __Near-unlimited scalability__ on-demand resources are available to meet your business needs
+        - __Near-unlimited scalability__ - on-demand resources are available to meet your business needs
        
-        - __High reliability__ a vast network of servers ensure against failure
+        - __High reliability__ - a vast network of servers ensure against failure
        
-        - __Operational expenditure__ (OpEx) in a public cloud you pay for the resources that you use
+        - __Operational expenditure__ (OpEx) - in a public cloud you pay for the resources that you use
     
   - Private cloud model
     
@@ -45,13 +45,13 @@ __Describe cloud computing__
    
       - Advantages of a private cloud
      
-        - __More flexibility__ your organization can customize its cloud environment to meed specific business needs
+        - __More flexibility__ - your organization can customize its cloud environment to meed specific business needs
        
-        - __More control__ resources are not shared with others, so higher levels of control and privacy are possible
+        - __More control__ - resources are not shared with others, so higher levels of control and privacy are possible
        
-        - __More scalability__ private clouds often offer more scalability compared to on-premises infrascructure
+        - __More scalability__ - private clouds often offer more scalability compared to on-premises infrascructure
        
-        - __Captial expenditure__ (CapEx) in a private cloud you pay up front for your resources
+        - __Captial expenditure__ (CapEx) - in a private cloud you pay up front for your resources
     
   - Hybrid cloud model
     
@@ -59,13 +59,13 @@ __Describe cloud computing__
    
       - Advantages of a hybrid cloud
      
-        - __Control__ your organization can maintain a private infrastructure for sensitive assets or workloads that require low latency
+        - __Control__ - your organization can maintain a private infrastructure for sensitive assets or workloads that require low latency
        
-        - __Flexibility__ you can take advantage of additional resources in the public cloud when you need them
+        - __Flexibility__ - you can take advantage of additional resources in the public cloud when you need them
        
-        - __Cost-effectiveness__ with the ability to scale to the public cloud, you pay for extra computing power only when needed
+        - __Cost-effectiveness__ - with the ability to scale to the public cloud, you pay for extra computing power only when needed
        
-        - __Ease__ transitioning to the cloud doesn't have to be overwhelming because you can migrate gradually, phasing in workloads over time
+        - __Ease__ - transitioning to the cloud doesn't have to be overwhelming because you can migrate gradually, phasing in workloads over time
 
 - Identify appropriate use cases for each cloud model
   
