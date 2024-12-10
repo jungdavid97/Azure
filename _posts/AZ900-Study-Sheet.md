@@ -125,11 +125,11 @@ __Describe cloud computing__
    
 - Azure Functions
  
-  - Running code in one of the supported languages
+  - __Coded__ - running code in one of the supported languages
    
-  - Stateless meaning multiple actions will not interact with eachother
+  - __Stateless__ - meaning multiple actions will not interact with eachother
    
-  - When the action is called, the Azure function begins and by default immediately ends once the task is completed
+    - When the action is called, the Azure function begins and by default immediately ends once the task is completed
    
 - Durable Azure Functions
  
@@ -139,11 +139,11 @@ __Describe cloud computing__
  
 - Azure Logic Apps
  
-  - Low/No code meaning it is connector based (like Power Automate) which calls connections
+  - __Low/No code__ - meaning it is connector based (like Power Automate) which calls connections
+
+    - With the Logic Apps Designer, you can build out the process using a GUI
    
-  - Automates tasks based on triggers when an event is called
-   
-  - With the Logic Apps Designer, you can build out the process using a GUI
+  - __Automated__ - automates tasks based on triggers when an event is called
 
 __Describe the benefits of using cloud services__
 
