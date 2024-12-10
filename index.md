@@ -1,4 +1,4 @@
 ---
-title: AZ900 Study Guide
+title: Azure Study Guide
 ---
 
