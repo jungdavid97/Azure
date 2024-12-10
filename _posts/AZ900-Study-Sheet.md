@@ -1,4 +1,4 @@
-<h2>Describe cloud concepts (25–30%)</h2>
+<h1>Describe cloud concepts (25–30%)</h1>
 
 __Describe cloud computing__
 
@@ -22,7 +22,7 @@ __Describe cloud computing__
      
     - Network controls
 
->Define cloud models, including public, private, and hybrid
+>__Define cloud models, including public, private, and hybrid__
 
 - Public cloud model
     
@@ -81,7 +81,7 @@ __Describe cloud computing__
  
   - Companies which seek the best of both worlds, with a demand for scalability, flexibility, and security in mind
 
->Describe the consumption-based model
+>__Describe the consumption-based model__
 
 - The consumption-based model is a pricing model used in the cloud so that customers are only charged based on their usage
 
@@ -147,124 +147,124 @@ __Describe cloud computing__
 
 __Describe the benefits of using cloud services__
 
->Describe the benefits of high availability and scalability in the cloud
+>__Describe the benefits of high availability and scalability in the cloud__
 
->Describe the benefits of reliability and predictability in the cloud
+>__Describe the benefits of reliability and predictability in the cloud__
 
->Describe the benefits of security and governance in the cloud
+>__Describe the benefits of security and governance in the cloud__
 
->Describe the benefits of manageability in the cloud
+>__Describe the benefits of manageability in the cloud__
 
 __Describe cloud service types__
 
->Describe infrastructure as a service (IaaS)
+>__Describe infrastructure as a service (IaaS)__
 
->Describe platform as a service (PaaS)
+>__Describe platform as a service (PaaS)__
 
->Describe software as a service (SaaS)
+>__Describe software as a service (SaaS)__
 
->Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)
+>__Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)__
 
-<h2>Describe Azure architecture and services (35–40%)</h2>
+<h1>Describe Azure architecture and services (35–40%)</h1>
 
 __Describe the core architectural components of Azure__
 
->Describe Azure regions, region pairs, and sovereign regions
+>__Describe Azure regions, region pairs, and sovereign regions__
 
->Describe availability zones
+>__Describe availability zones__
 
->Describe Azure datacenters
+>__Describe Azure datacenters__
 
->Describe Azure resources and resource groups
+>__Describe Azure resources and resource groups__
 
->Describe subscriptions
+>__Describe subscriptions__
 
->Describe management groups
+>__Describe management groups__
 
->Describe the hierarchy of resource groups, subscriptions, and management groups
+>__Describe the hierarchy of resource groups, subscriptions, and management groups__
 
 __Describe Azure compute and networking services__
 
->Compare compute types, including containers, virtual machines, and functions
+>__Compare compute types, including containers, virtual machines, and functions__
 
->Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop
+>__Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop__
 
->Describe the resources required for virtual machines
+>__Describe the resources required for virtual machines__
 
->Describe application hosting options, including web apps, containers, and virtual machines
+>__Describe application hosting options, including web apps, containers, and virtual machines__
 
->Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute
+>__Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute__
 
->Define public and private endpoints
+>__Define public and private endpoints__
 
 __Describe Azure storage services__
 
->Compare Azure Storage services
+>__Compare Azure Storage services__
 
->Describe storage tiers
+>__Describe storage tiers__
 
->Describe redundancy options
+>__Describe redundancy options__
 
->Describe storage account options and storage types
+>__Describe storage account options and storage types__
 
->Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
+>__Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync__
 
->Describe migration options, including Azure Migrate and Azure Data Box
+>__Describe migration options, including Azure Migrate and Azure Data Box__
 
 __Describe Azure identity, access, and security__
 
->Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services
+>__Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services__
 
->Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless
+>__Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless__
 
->Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)
+>__Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)__
 
->Describe Microsoft Entra Conditional Access
+>__Describe Microsoft Entra Conditional Access__
 
->Describe Azure role-based access control (RBAC)
+>__Describe Azure role-based access control (RBAC)__
 
->Describe the concept of Zero Trust
+>__Describe the concept of Zero Trust__
 
->Describe the purpose of the defense-in-depth model
+>__Describe the purpose of the defense-in-depth model__
 
->Describe the purpose of Microsoft Defender for Cloud
+>__Describe the purpose of Microsoft Defender for Cloud__
 
-<h2>Describe Azure management and governance (30–35%)</h2>
+<h1>Describe Azure management and governance (30–35%)</h1>
 
 __Describe cost management in Azure__
 
->Describe factors that can affect costs in Azure
+>__Describe factors that can affect costs in Azure__
 
->Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator
+>__Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator__
 
->Describe cost management capabilities in Azure
+>__Describe cost management capabilities in Azure__
 
->Describe the purpose of tags
+>__Describe the purpose of tags__
 
 __Describe features and tools in Azure for governance and compliance__
 
->Describe the purpose of Microsoft Purview in Azure
+>__Describe the purpose of Microsoft Purview in Azure__
 
->Describe the purpose of Azure Policy
+>__Describe the purpose of Azure Policy__
 
->Describe the purpose of resource locks
+>__Describe the purpose of resource locks__
 
 __Describe features and tools for managing and deploying Azure resources__
 
->Describe the Azure portal
+>__Describe the Azure portal__
 
->Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell
+>__Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell__
 
->Describe the purpose of Azure Arc
+>__Describe the purpose of Azure Arc__
 
->Describe infrastructure as code (IaC)
+>__Describe infrastructure as code (IaC)__
 
->Describe Azure Resource Manager (ARM) and ARM templates
+>__Describe Azure Resource Manager (ARM) and ARM templates__
 
 __Describe monitoring tools in Azure__
 
->Describe the purpose of Azure Advisor
+>__Describe the purpose of Azure Advisor__
 
->Describe Azure Service Health
+>__Describe Azure Service Health__
 
->Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
+>__Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights__
