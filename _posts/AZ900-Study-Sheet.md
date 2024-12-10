@@ -2,148 +2,148 @@
 
 __Describe cloud computing__
 
-- Define cloud computing
+>__Define cloud computing__
 
-  - Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more efficiently, and scale as your business needs change
+- Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more efficiently, and scale as your business needs change
 
-- Describe the shared responsibility model
+>__Describe the shared responsibility model__
 
-  - The workload responsibilities vary depending on whether the workload is hosted on Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS), or in an on-premises datacenter ***[Microsoft Learn](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)***
+- The workload responsibilities vary depending on whether the workload is hosted on Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS), or in an on-premises datacenter ***[Microsoft Learn](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)***
 
-    - Software as a service
+  - Software as a service
    
-      - Identity and directory infrastructure
+    - Identity and directory infrastructure
      
-    - Platform as a service
+  - Platform as a service
    
-      - Identity and directory infrastructure
+    - Identity and directory infrastructure
      
-      - Applications
+    - Applications
      
-      - Network controls
+    - Network controls
 
-- Define cloud models, including public, private, and hybrid
+>Define cloud models, including public, private, and hybrid
 
-  - Public cloud model
+- Public cloud model
     
-    - Public clouds are the most common type of cloud computing deployment. The cloud resources (like servers and storage) are owned and operated by a third-party cloud service provider and delivered over the internet. With a public cloud, all hardware, software, and other supporting infrastructure are owned and managed by the cloud provider. Microsoft Azure is an example of a public cloud
-      - Advantages of public clouds
+  - Public clouds are the most common type of cloud computing deployment. The cloud resources (like servers and storage) are owned and operated by a third-party cloud service provider and delivered over the internet. With a public cloud, all hardware, software, and other supporting infrastructure are owned and managed by the cloud provider. Microsoft Azure is an example of a public cloud
+    - Advantages of public clouds
 
-        - __Lower costs__ - no need to purchase hardware or software, and you pay only for the service you use
+      - __Lower costs__ - no need to purchase hardware or software, and you pay only for the service you use
        
-        - __No maintenance__ - your service provider provides the maintenance
+      - __No maintenance__ - your service provider provides the maintenance
        
-        - __Near-unlimited scalability__ - on-demand resources are available to meet your business needs
+      - __Near-unlimited scalability__ - on-demand resources are available to meet your business needs
        
-        - __High reliability__ - a vast network of servers ensure against failure
+      - __High reliability__ - a vast network of servers ensure against failure
        
-        - __Operational expenditure__ (OpEx) - in a public cloud you pay for the resources that you use
+      - __Operational expenditure__ (OpEx) - in a public cloud you pay for the resources that you use
     
-  - Private cloud model
+- Private cloud model
     
-    - A private cloud consists of cloud computing resources used exclusively by one business or organization. The private cloud can be physically located at your organization’s on-site datacenter, or it can be hosted by a third-party service provider. But in a private cloud, the services and infrastructure are always maintained on a private network and the hardware and software are dedicated solely to your organization. (Financial institutions)
+  - A private cloud consists of cloud computing resources used exclusively by one business or organization. The private cloud can be physically located at your organization’s on-site datacenter, or it can be hosted by a third-party service provider. But in a private cloud, the services and infrastructure are always maintained on a private network and the hardware and software are dedicated solely to your organization. (Financial institutions)
    
-      - Advantages of a private cloud
+    - Advantages of a private cloud
      
-        - __More flexibility__ - your organization can customize its cloud environment to meed specific business needs
+      - __More flexibility__ - your organization can customize its cloud environment to meed specific business needs
        
-        - __More control__ - resources are not shared with others, so higher levels of control and privacy are possible
+      - __More control__ - resources are not shared with others, so higher levels of control and privacy are possible
        
-        - __More scalability__ - private clouds often offer more scalability compared to on-premises infrascructure
+      - __More scalability__ - private clouds often offer more scalability compared to on-premises infrascructure
        
-        - __Captial expenditure__ (CapEx) - in a private cloud you pay up front for your resources
+      - __Captial expenditure__ (CapEx) - in a private cloud you pay up front for your resources
     
-  - Hybrid cloud model
+- Hybrid cloud model
     
-    - A hybrid cloud is a type of cloud computing that combines on-premises infrastructure—or a private cloud—with a public cloud. Hybrid clouds allow data and apps to move between the two environments.
+  - A hybrid cloud is a type of cloud computing that combines on-premises infrastructure—or a private cloud—with a public cloud. Hybrid clouds allow data and apps to move between the two environments.
    
-      - Advantages of a hybrid cloud
+    - Advantages of a hybrid cloud
      
-        - __Control__ - your organization can maintain a private infrastructure for sensitive assets or workloads that require low latency
+      - __Control__ - your organization can maintain a private infrastructure for sensitive assets or workloads that require low latency
        
-        - __Flexibility__ - you can take advantage of additional resources in the public cloud when you need them
+      - __Flexibility__ - you can take advantage of additional resources in the public cloud when you need them
        
-        - __Cost-effectiveness__ - with the ability to scale to the public cloud, you pay for extra computing power only when needed
+      - __Cost-effectiveness__ - with the ability to scale to the public cloud, you pay for extra computing power only when needed
        
-        - __Ease__ - transitioning to the cloud doesn't have to be overwhelming because you can migrate gradually, phasing in workloads over time
+      - __Ease__ - transitioning to the cloud doesn't have to be overwhelming because you can migrate gradually, phasing in workloads over time
 
-- Identify appropriate use cases for each cloud model
+>__Identify appropriate use cases for each cloud model__
   
-  - Public cloud
+- Public cloud
  
-    - Web-based email, online office applications, storage, and testing and development environments
+  - Web-based email, online office applications, storage, and testing and development environments
     
-  - Private cloud
+- Private cloud
  
-    - Government agencies, financial institutions, any other mid- to large-sized organications with business-critical operations seeking enhanced control over their environment
+  - Government agencies, financial institutions, any other mid- to large-sized organications with business-critical operations seeking enhanced control over their environment
  
-  - Hybrid cloud
+- Hybrid cloud
  
-    - Companies which seek the best of both worlds, with a demand for scalability, flexibility, and security in mind
+  - Companies which seek the best of both worlds, with a demand for scalability, flexibility, and security in mind
 
-- Describe the consumption-based model
+>Describe the consumption-based model
 
-  - The consumption-based model is a pricing model used in the cloud so that customers are only charged based on their usage
+- The consumption-based model is a pricing model used in the cloud so that customers are only charged based on their usage
 
-- ***[Compare cloud pricing models](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)***
+>__***[Compare cloud pricing models](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)***__
 
-  - Pay-as-you-go
+- Pay-as-you-go
  
-    - Allows you to pay for Azure services based on your usage with no upfront commitment
+  - Allows you to pay for Azure services based on your usage with no upfront commitment
    
-    - Allows you to start and stop services whenever you want without changing your business needs
+  - Allows you to start and stop services whenever you want without changing your business needs
    
-    - Variable cost depending on your usage
+  - Variable cost depending on your usage
    
-    - Good for development and testing environments, and businesses that prefer operational expenditure
+  - Good for development and testing environments, and businesses that prefer operational expenditure
  
-  - Spot pricing
+- Spot pricing
  
-    - Allows you to take advantage of un-used Azure capacities
+  - Allows you to take advantage of un-used Azure capacities
    
-    - Azure is able to evict your virtual machines at any time
+  - Azure is able to evict your virtual machines at any time
    
-    - It is cost effective as you are able to pay what you want (setting an upper limit on what you're willing to pay), but has no guarentees
+  - It is cost effective as you are able to pay what you want (setting an upper limit on what you're willing to pay), but has no guarentees
    
-    - Good for things that don't require a constant and reliable instance such as, batch processing, data analysis, and for development testing
+  - Good for things that don't require a constant and reliable instance such as, batch processing, data analysis, and for development testing
  
-  - Reserved instances
+- Reserved instances
  
-    - Allow users to commit to a specific virtual machine type and size for a fixed term
+  - Allow users to commit to a specific virtual machine type and size for a fixed term
    
-    - Discounted pricing is provided due the the term reservation
+  - Discounted pricing is provided due the the term reservation
    
-    - Offers predictable billing, but in turn it is less flexible that pay-as-you-go
+  - Offers predictable billing, but in turn it is less flexible that pay-as-you-go
    
-    - Good for long term projects that require predictable resource requirements
+  - Good for long term projects that require predictable resource requirements
 
-- Describe serverless
+>__Describe serverless__
 
-  - Consumption based/pay-as-you-go meaning it is entirely event driven
+- Consumption based/pay-as-you-go meaning it is entirely event driven
  
-    - An action must occur to have the serverless technology to be used. Such as writing to a storage account
+  - An action must occur to have the serverless technology to be used. Such as writing to a storage account
    
-  - Azure Functions
+- Azure Functions
  
-    - Running code in one of the supported languages
+  - Running code in one of the supported languages
    
-    - Stateless meaning multiple actions will not interact with eachother
+  - Stateless meaning multiple actions will not interact with eachother
    
-    - When the action is called, the Azure function begins and by default immediately ends once the task is completed
+  - When the action is called, the Azure function begins and by default immediately ends once the task is completed
    
-  - Durable Azure Functions
+- Durable Azure Functions
  
-    - It is possible to create an Azure function that does not immediately end once the task is completed
+  - It is possible to create an Azure function that does not immediately end once the task is completed
    
-    - The state is maintained between events happening. A scenario would be creating an endpoint that makes an HTTP request and checks in if the action is completed
+  - The state is maintained between events happening. A scenario would be creating an endpoint that makes an HTTP request and checks in if the action is completed
  
-  - Azure Logic Apps
+- Azure Logic Apps
  
-    - Low/No code meaning it is connector based (like Power Automate) which calls connections
+  - Low/No code meaning it is connector based (like Power Automate) which calls connections
    
-    - Automates tasks based on triggers when an event is called
+  - Automates tasks based on triggers when an event is called
    
-    - With the Logic Apps Designer, you can build out the process using a GUI
+  - With the Logic Apps Designer, you can build out the process using a GUI
 
 __Describe the benefits of using cloud services__
 
