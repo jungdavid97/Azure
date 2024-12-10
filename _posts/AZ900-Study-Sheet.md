@@ -149,7 +149,7 @@ __Describe the benefits of using cloud services__
 
 >__Describe the benefits of high availability and scalability in the cloud__
 
-- High abailability
+- High availability
 
   - Highly availably cloud environments with uptime guarentees depending on the service
  
@@ -163,19 +163,27 @@ __Describe the benefits of using cloud services__
    
     - Each service comes with its own SLA which must be prioritized to make sure it fits your business needs
    
-  - Scalability
+- Scalability
  
-    - The ability to scale means to add more resources to better handle an increase in demand
+  - The ability to scale means to add more resources to better handle an increase in demand
    
-    - __Vertical scaling__ - if you were developing an app and you need more processing power, you could add more CPUs or RAM to the virtual machine
+  - __Vertical scaling__ - if you were developing an app and you need more processing power, you could add more CPUs or RAM to the virtual machine
    
-      - The ability to add or reduce resources to an existing VM to meet current demands and needs
+    - The ability to add or reduce resources to an existing VM to meet current demands and needs
      
-    - __Horizontal scaling__ - if you experience a steep increase in demand, you would be able to either deploy more virtual machines or containers
+  - __Horizontal scaling__ - if you experience a steep increase in demand, you would be able to either deploy more virtual machines or containers
    
-      - The ability to deploy entire VMs or containers which were not previously used in the environment
+    - The ability to deploy entire VMs or containers which were not previously used in the environment
    
-      - Deployed resources couuld be scaled in either automatically or horizontally
+    - Deployed resources couuld be scaled in either automatically or horizontally
+   
+- Agility
+
+  - Agility means that you can deploy and configure cloud-based resources quickly as app requirements change
+
+- Elasticity
+
+  - Elasticity means that you can configure cloud-based apps to take advantage of autoscaling, so apps always have the resources they need
 
 >__Describe the benefits of reliability and predictability in the cloud__
 
