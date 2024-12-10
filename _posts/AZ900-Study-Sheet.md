@@ -117,7 +117,33 @@ __Describe cloud computing__
    
     - Good for long term projects that require predictable resource requirements
 
->Describe serverless
+- Describe serverless
+
+  - Consumption based/pay-as-you-go meaning it is entirely event driven
+ 
+    - An action must occur to have the serverless technology to be used. Such as writing to a storage account
+   
+  - Azure Functions
+ 
+    - Running code in one of the supported languages
+   
+    - Stateless meaning multiple actions will not interact with eachother
+   
+    - When the action is called, the Azure function begins and by default immediately ends once the task is completed
+   
+  - Durable Azure Functions
+ 
+    - It is possible to create an Azure function that does not immediately end once the task is completed
+   
+    - The state is maintained between events happening. A scenario would be creating an endpoint that makes an HTTP request and checks in if the action is completed
+ 
+  - Azure Logic Apps
+ 
+    - Low/No code meaning it is connector based (like Power Automate) which calls connections
+   
+    - Automates tasks based on triggers when an event is called
+   
+    - With the Logic Apps Designer, you can build our the process using a GUI
 
 __Describe the benefits of using cloud services__
 
